@@ -183,7 +183,7 @@ OLED 显示英文状态信息。
 
 当前固件使用的是 **Blinker BLE 协议兼容接口**。如果你使用的是已适配本项目的 Blinker 手机端界面，请导入额外提供的 App 操作界面代码后使用。
 ```
-/blinder.txt
+/blinker.txt
 ```
 BLE 设备信息：
 
