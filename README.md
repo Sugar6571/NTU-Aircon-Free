@@ -118,17 +118,7 @@ Windows 检查方法：
 ```
 请根据实际的oled显示器类型选择适合的驱动程序，ssd1306.py目前只适配0.96英寸的7针oled模块
 
-不建议上传到 ESP32：
 
-```text
-/docs/
-/examples/
-/tools/
-/__pycache__/
-/README.md
-/LICENSE
-/.gitignore
-```
 
 ## AC-FREE 工作逻辑
 
