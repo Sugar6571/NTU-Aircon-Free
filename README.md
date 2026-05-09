@@ -320,11 +320,12 @@ PolyForm Noncommercial License 1.0.0
 
 ### 微信支付
 
-![微信支付收款码](assets/donate/wechat.jpg)
+<img src="./assets/donate/wechat.jpg" alt="微信支付收款码" width="320">
 
 ### 支付宝
 
-![支付宝收款码](assets/donate/alipay.jpg)
-### paypal
+<img src="./assets/donate/alipay.jpg" alt="支付宝收款码" width="320">
 
-![paypal收款码](assets/donate/paypal.jpg)
+### PayPal
+
+<img src="./assets/donate/paypal.jpg" alt="PayPal 收款码" width="320">
