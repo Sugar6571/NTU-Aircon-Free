@@ -179,11 +179,11 @@ OLED 显示英文状态信息。
 - IR Learn
 - WiFi Setup
 
-## Blinker / Blinder 手机端控制
+## Blinker  手机端控制
 
-当前固件使用的是 **Blinker BLE 协议兼容接口**。如果你使用的是已适配本项目的 Blinder / Blinker 手机端界面，请导入额外提供的 App 操作界面代码后使用。
+当前固件使用的是 **Blinker BLE 协议兼容接口**。如果你使用的是已适配本项目的 Blinker 手机端界面，请导入额外提供的 App 操作界面代码后使用。
 ```
-/blinker.txt
+/blinder.txt
 ```
 BLE 设备信息：
 
@@ -325,3 +325,6 @@ PolyForm Noncommercial License 1.0.0
 ### 支付宝
 
 ![支付宝收款码](assets/donate/alipay.jpg)
+### paypal
+
+![paypal收款码](assets/donate/paypal.jpg)
