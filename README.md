@@ -316,5 +316,5 @@ PolyForm Noncommercial License 1.0.0
 
 <img src="./asserts/donate/alipay.jpg" alt="支付宝收款码" width="320">
 
-<img src="./asserts/donate/paypal.jpg" alt="PayPal 收款码" width="320">
+
 
